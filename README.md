@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacob Saal
-- 👀 I’m interested in ANTHING it, F1 
+- 👀 I’m interested in ANTHING IT, F1 
 - 🌱 I’m currently learning Phython, 
 - 💞️ I’m use this to help with my skills
 - 📫 How to reach me jsaalit@gmail.com
