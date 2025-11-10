@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Phython, 
 - 💞️ I’m use this to help with my skills
 - 📫 How to reach me jsaalit@gmail.com
+- learning Arduino, Ham, and CB radio 
 
 <!---
 jsaalit/jsaalit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
